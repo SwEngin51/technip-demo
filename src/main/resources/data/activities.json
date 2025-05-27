@@ -1,0 +1,1082 @@
+[
+  {
+    "id": 1,
+    "type": "EQUIPMENT_USAGE_DIESEL",
+    "name": "Craning Operation #1",
+    "activityDate": "2024-08-10",
+    "quantity": 149,
+    "unit": "liter",
+    "projectId": 7
+  },
+  {
+    "id": 2,
+    "type": "EQUIPMENT_USAGE_DIESEL",
+    "name": "Diesel Generator Run #2",
+    "activityDate": "2024-08-27",
+    "quantity": 196,
+    "unit": "liter",
+    "projectId": 9
+  },
+  {
+    "id": 3,
+    "type": "TRAVEL_CAR",
+    "name": "Safety Audit Drive #3",
+    "activityDate": "2024-02-09",
+    "quantity": 190,
+    "unit": "km",
+    "projectId": 10
+  },
+  {
+    "id": 4,
+    "type": "ENERGY_CONSUMPTION",
+    "name": "Welding Machine Usage #4",
+    "activityDate": "2024-10-10",
+    "quantity": 1432,
+    "unit": "kWh",
+    "projectId": 1
+  },
+  {
+    "id": 5,
+    "type": "TRAVEL_CAR",
+    "name": "Safety Audit Drive #5",
+    "activityDate": "2024-10-26",
+    "quantity": 442,
+    "unit": "km",
+    "projectId": 4
+  },
+  {
+    "id": 6,
+    "type": "ENERGY_CONSUMPTION",
+    "name": "Temporary Power Supply #6",
+    "activityDate": "2024-08-25",
+    "quantity": 796,
+    "unit": "kWh",
+    "projectId": 1
+  },
+  {
+    "id": 7,
+    "type": "EQUIPMENT_USAGE_DIESEL",
+    "name": "Diesel Generator Run #7",
+    "activityDate": "2024-04-16",
+    "quantity": 713,
+    "unit": "liter",
+    "projectId": 4
+  },
+  {
+    "id": 8,
+    "type": "TRAVEL_CAR",
+    "name": "Safety Audit Drive #8",
+    "activityDate": "2024-04-25",
+    "quantity": 260,
+    "unit": "km",
+    "projectId": 1
+  },
+  {
+    "id": 9,
+    "type": "ENERGY_CONSUMPTION",
+    "name": "Lighting System #9",
+    "activityDate": "2024-09-27",
+    "quantity": 980,
+    "unit": "kWh",
+    "projectId": 6
+  },
+  {
+    "id": 10,
+    "type": "EQUIPMENT_USAGE_DIESEL",
+    "name": "Craning Operation #10",
+    "activityDate": "2024-06-07",
+    "quantity": 319,
+    "unit": "liter",
+    "projectId": 6
+  },
+  {
+    "id": 11,
+    "type": "ENERGY_CONSUMPTION",
+    "name": "Lighting System #11",
+    "activityDate": "2024-12-27",
+    "quantity": 1361,
+    "unit": "kWh",
+    "projectId": 4
+  },
+  {
+    "id": 12,
+    "type": "EQUIPMENT_USAGE_DIESEL",
+    "name": "Craning Operation #12",
+    "activityDate": "2024-06-05",
+    "quantity": 359,
+    "unit": "liter",
+    "projectId": 8
+  },
+  {
+    "id": 13,
+    "type": "TRAVEL_CAR",
+    "name": "Supervisor Trip #13",
+    "activityDate": "2024-07-08",
+    "quantity": 322,
+    "unit": "km",
+    "projectId": 7
+  },
+  {
+    "id": 14,
+    "type": "ENERGY_CONSUMPTION",
+    "name": "Welding Machine Usage #14",
+    "activityDate": "2024-06-02",
+    "quantity": 327,
+    "unit": "kWh",
+    "projectId": 1
+  },
+  {
+    "id": 15,
+    "type": "ENERGY_CONSUMPTION",
+    "name": "Lighting System #15",
+    "activityDate": "2024-03-18",
+    "quantity": 1482,
+    "unit": "kWh",
+    "projectId": 4
+  },
+  {
+    "id": 16,
+    "type": "TRAVEL_CAR",
+    "name": "Site Visit #16",
+    "activityDate": "2024-11-17",
+    "quantity": 353,
+    "unit": "km",
+    "projectId": 1
+  },
+  {
+    "id": 17,
+    "type": "TRAVEL_CAR",
+    "name": "Material Pickup #17",
+    "activityDate": "2024-09-16",
+    "quantity": 204,
+    "unit": "km",
+    "projectId": 8
+  },
+  {
+    "id": 18,
+    "type": "TRAVEL_CAR",
+    "name": "Site Visit #18",
+    "activityDate": "2024-05-27",
+    "quantity": 376,
+    "unit": "km",
+    "projectId": 2
+  },
+  {
+    "id": 19,
+    "type": "ENERGY_CONSUMPTION",
+    "name": "Lighting System #19",
+    "activityDate": "2024-09-02",
+    "quantity": 208,
+    "unit": "kWh",
+    "projectId": 8
+  },
+  {
+    "id": 20,
+    "type": "ENERGY_CONSUMPTION",
+    "name": "Temporary Power Supply #20",
+    "activityDate": "2024-05-12",
+    "quantity": 430,
+    "unit": "kWh",
+    "projectId": 7
+  },
+  {
+    "id": 21,
+    "type": "EQUIPMENT_USAGE_DIESEL",
+    "name": "Excavator Fuel Use #21",
+    "activityDate": "2024-10-18",
+    "quantity": 463,
+    "unit": "liter",
+    "projectId": 5
+  },
+  {
+    "id": 22,
+    "type": "EQUIPMENT_USAGE_DIESEL",
+    "name": "Craning Operation #22",
+    "activityDate": "2024-03-14",
+    "quantity": 100,
+    "unit": "liter",
+    "projectId": 5
+  },
+  {
+    "id": 23,
+    "type": "EQUIPMENT_USAGE_DIESEL",
+    "name": "Diesel Generator Run #23",
+    "activityDate": "2024-08-19",
+    "quantity": 613,
+    "unit": "liter",
+    "projectId": 3
+  },
+  {
+    "id": 24,
+    "type": "TRAVEL_CAR",
+    "name": "Site Visit #24",
+    "activityDate": "2024-03-21",
+    "quantity": 490,
+    "unit": "km",
+    "projectId": 7
+  },
+  {
+    "id": 25,
+    "type": "TRAVEL_CAR",
+    "name": "Site Visit #25",
+    "activityDate": "2024-06-26",
+    "quantity": 454,
+    "unit": "km",
+    "projectId": 6
+  },
+  {
+    "id": 26,
+    "type": "ENERGY_CONSUMPTION",
+    "name": "Lighting System #26",
+    "activityDate": "2024-07-21",
+    "quantity": 321,
+    "unit": "kWh",
+    "projectId": 6
+  },
+  {
+    "id": 27,
+    "type": "EQUIPMENT_USAGE_DIESEL",
+    "name": "Craning Operation #27",
+    "activityDate": "2024-08-15",
+    "quantity": 104,
+    "unit": "liter",
+    "projectId": 9
+  },
+  {
+    "id": 28,
+    "type": "TRAVEL_CAR",
+    "name": "Site Visit #28",
+    "activityDate": "2024-06-27",
+    "quantity": 116,
+    "unit": "km",
+    "projectId": 8
+  },
+  {
+    "id": 29,
+    "type": "EQUIPMENT_USAGE_DIESEL",
+    "name": "Craning Operation #29",
+    "activityDate": "2024-05-25",
+    "quantity": 491,
+    "unit": "liter",
+    "projectId": 7
+  },
+  {
+    "id": 30,
+    "type": "ENERGY_CONSUMPTION",
+    "name": "Welding Machine Usage #30",
+    "activityDate": "2024-02-25",
+    "quantity": 568,
+    "unit": "kWh",
+    "projectId": 7
+  },
+  {
+    "id": 31,
+    "type": "TRAVEL_CAR",
+    "name": "Safety Audit Drive #31",
+    "activityDate": "2024-09-27",
+    "quantity": 100,
+    "unit": "km",
+    "projectId": 6
+  },
+  {
+    "id": 32,
+    "type": "EQUIPMENT_USAGE_DIESEL",
+    "name": "Excavator Fuel Use #32",
+    "activityDate": "2024-11-10",
+    "quantity": 662,
+    "unit": "liter",
+    "projectId": 7
+  },
+  {
+    "id": 33,
+    "type": "ENERGY_CONSUMPTION",
+    "name": "Temporary Power Supply #33",
+    "activityDate": "2024-05-06",
+    "quantity": 1004,
+    "unit": "kWh",
+    "projectId": 10
+  },
+  {
+    "id": 34,
+    "type": "ENERGY_CONSUMPTION",
+    "name": "Temporary Power Supply #34",
+    "activityDate": "2024-07-04",
+    "quantity": 383,
+    "unit": "kWh",
+    "projectId": 1
+  },
+  {
+    "id": 35,
+    "type": "TRAVEL_CAR",
+    "name": "Supervisor Trip #35",
+    "activityDate": "2024-11-08",
+    "quantity": 368,
+    "unit": "km",
+    "projectId": 5
+  },
+  {
+    "id": 36,
+    "type": "EQUIPMENT_USAGE_DIESEL",
+    "name": "Excavator Fuel Use #36",
+    "activityDate": "2024-01-15",
+    "quantity": 540,
+    "unit": "liter",
+    "projectId": 5
+  },
+  {
+    "id": 37,
+    "type": "ENERGY_CONSUMPTION",
+    "name": "Lighting System #37",
+    "activityDate": "2024-03-04",
+    "quantity": 1092,
+    "unit": "kWh",
+    "projectId": 1
+  },
+  {
+    "id": 38,
+    "type": "EQUIPMENT_USAGE_DIESEL",
+    "name": "Craning Operation #38",
+    "activityDate": "2024-01-09",
+    "quantity": 702,
+    "unit": "liter",
+    "projectId": 6
+  },
+  {
+    "id": 39,
+    "type": "TRAVEL_CAR",
+    "name": "Safety Audit Drive #39",
+    "activityDate": "2024-02-14",
+    "quantity": 151,
+    "unit": "km",
+    "projectId": 5
+  },
+  {
+    "id": 40,
+    "type": "TRAVEL_CAR",
+    "name": "Material Pickup #40",
+    "activityDate": "2024-02-24",
+    "quantity": 76,
+    "unit": "km",
+    "projectId": 6
+  },
+  {
+    "id": 41,
+    "type": "ENERGY_CONSUMPTION",
+    "name": "Lighting System #41",
+    "activityDate": "2024-02-09",
+    "quantity": 977,
+    "unit": "kWh",
+    "projectId": 4
+  },
+  {
+    "id": 42,
+    "type": "EQUIPMENT_USAGE_DIESEL",
+    "name": "Excavator Fuel Use #42",
+    "activityDate": "2024-11-01",
+    "quantity": 491,
+    "unit": "liter",
+    "projectId": 5
+  },
+  {
+    "id": 43,
+    "type": "EQUIPMENT_USAGE_DIESEL",
+    "name": "Excavator Fuel Use #43",
+    "activityDate": "2024-01-03",
+    "quantity": 594,
+    "unit": "liter",
+    "projectId": 4
+  },
+  {
+    "id": 44,
+    "type": "ENERGY_CONSUMPTION",
+    "name": "Welding Machine Usage #44",
+    "activityDate": "2024-10-02",
+    "quantity": 334,
+    "unit": "kWh",
+    "projectId": 10
+  },
+  {
+    "id": 45,
+    "type": "EQUIPMENT_USAGE_DIESEL",
+    "name": "Craning Operation #45",
+    "activityDate": "2024-03-17",
+    "quantity": 468,
+    "unit": "liter",
+    "projectId": 7
+  },
+  {
+    "id": 46,
+    "type": "TRAVEL_CAR",
+    "name": "Safety Audit Drive #46",
+    "activityDate": "2024-08-15",
+    "quantity": 205,
+    "unit": "km",
+    "projectId": 3
+  },
+  {
+    "id": 47,
+    "type": "EQUIPMENT_USAGE_DIESEL",
+    "name": "Craning Operation #47",
+    "activityDate": "2024-04-27",
+    "quantity": 761,
+    "unit": "liter",
+    "projectId": 4
+  },
+  {
+    "id": 48,
+    "type": "ENERGY_CONSUMPTION",
+    "name": "Welding Machine Usage #48",
+    "activityDate": "2024-09-26",
+    "quantity": 486,
+    "unit": "kWh",
+    "projectId": 6
+  },
+  {
+    "id": 49,
+    "type": "EQUIPMENT_USAGE_DIESEL",
+    "name": "Excavator Fuel Use #49",
+    "activityDate": "2024-02-09",
+    "quantity": 137,
+    "unit": "liter",
+    "projectId": 10
+  },
+  {
+    "id": 50,
+    "type": "ENERGY_CONSUMPTION",
+    "name": "Lighting System #50",
+    "activityDate": "2024-10-19",
+    "quantity": 580,
+    "unit": "kWh",
+    "projectId": 3
+  },
+  {
+    "id": 51,
+    "type": "ENERGY_CONSUMPTION",
+    "name": "Welding Machine Usage #51",
+    "activityDate": "2024-11-09",
+    "quantity": 450,
+    "unit": "kWh",
+    "projectId": 9
+  },
+  {
+    "id": 52,
+    "type": "EQUIPMENT_USAGE_DIESEL",
+    "name": "Excavator Fuel Use #52",
+    "activityDate": "2024-06-12",
+    "quantity": 518,
+    "unit": "liter",
+    "projectId": 2
+  },
+  {
+    "id": 53,
+    "type": "EQUIPMENT_USAGE_DIESEL",
+    "name": "Craning Operation #53",
+    "activityDate": "2024-01-28",
+    "quantity": 475,
+    "unit": "liter",
+    "projectId": 5
+  },
+  {
+    "id": 54,
+    "type": "TRAVEL_CAR",
+    "name": "Material Pickup #54",
+    "activityDate": "2024-01-17",
+    "quantity": 334,
+    "unit": "km",
+    "projectId": 3
+  },
+  {
+    "id": 55,
+    "type": "ENERGY_CONSUMPTION",
+    "name": "Temporary Power Supply #55",
+    "activityDate": "2024-03-14",
+    "quantity": 631,
+    "unit": "kWh",
+    "projectId": 5
+  },
+  {
+    "id": 56,
+    "type": "TRAVEL_CAR",
+    "name": "Supervisor Trip #56",
+    "activityDate": "2024-11-21",
+    "quantity": 218,
+    "unit": "km",
+    "projectId": 5
+  },
+  {
+    "id": 57,
+    "type": "EQUIPMENT_USAGE_DIESEL",
+    "name": "Diesel Generator Run #57",
+    "activityDate": "2024-06-14",
+    "quantity": 271,
+    "unit": "liter",
+    "projectId": 4
+  },
+  {
+    "id": 58,
+    "type": "EQUIPMENT_USAGE_DIESEL",
+    "name": "Craning Operation #58",
+    "activityDate": "2024-07-22",
+    "quantity": 709,
+    "unit": "liter",
+    "projectId": 10
+  },
+  {
+    "id": 59,
+    "type": "TRAVEL_CAR",
+    "name": "Material Pickup #59",
+    "activityDate": "2024-07-23",
+    "quantity": 329,
+    "unit": "km",
+    "projectId": 2
+  },
+  {
+    "id": 60,
+    "type": "TRAVEL_CAR",
+    "name": "Site Visit #60",
+    "activityDate": "2024-03-03",
+    "quantity": 55,
+    "unit": "km",
+    "projectId": 3
+  },
+  {
+    "id": 61,
+    "type": "ENERGY_CONSUMPTION",
+    "name": "Temporary Power Supply #61",
+    "activityDate": "2024-10-01",
+    "quantity": 791,
+    "unit": "kWh",
+    "projectId": 3
+  },
+  {
+    "id": 62,
+    "type": "ENERGY_CONSUMPTION",
+    "name": "Welding Machine Usage #62",
+    "activityDate": "2024-01-23",
+    "quantity": 649,
+    "unit": "kWh",
+    "projectId": 9
+  },
+  {
+    "id": 63,
+    "type": "ENERGY_CONSUMPTION",
+    "name": "Welding Machine Usage #63",
+    "activityDate": "2024-08-20",
+    "quantity": 587,
+    "unit": "kWh",
+    "projectId": 5
+  },
+  {
+    "id": 64,
+    "type": "EQUIPMENT_USAGE_DIESEL",
+    "name": "Excavator Fuel Use #64",
+    "activityDate": "2024-02-12",
+    "quantity": 507,
+    "unit": "liter",
+    "projectId": 3
+  },
+  {
+    "id": 65,
+    "type": "EQUIPMENT_USAGE_DIESEL",
+    "name": "Diesel Generator Run #65",
+    "activityDate": "2024-05-25",
+    "quantity": 171,
+    "unit": "liter",
+    "projectId": 4
+  },
+  {
+    "id": 66,
+    "type": "TRAVEL_CAR",
+    "name": "Site Visit #66",
+    "activityDate": "2024-07-11",
+    "quantity": 319,
+    "unit": "km",
+    "projectId": 8
+  },
+  {
+    "id": 67,
+    "type": "EQUIPMENT_USAGE_DIESEL",
+    "name": "Craning Operation #67",
+    "activityDate": "2024-09-09",
+    "quantity": 599,
+    "unit": "liter",
+    "projectId": 9
+  },
+  {
+    "id": 68,
+    "type": "TRAVEL_CAR",
+    "name": "Supervisor Trip #68",
+    "activityDate": "2024-10-19",
+    "quantity": 114,
+    "unit": "km",
+    "projectId": 3
+  },
+  {
+    "id": 69,
+    "type": "TRAVEL_CAR",
+    "name": "Material Pickup #69",
+    "activityDate": "2024-03-24",
+    "quantity": 372,
+    "unit": "km",
+    "projectId": 8
+  },
+  {
+    "id": 70,
+    "type": "EQUIPMENT_USAGE_DIESEL",
+    "name": "Excavator Fuel Use #70",
+    "activityDate": "2024-08-19",
+    "quantity": 416,
+    "unit": "liter",
+    "projectId": 4
+  },
+  {
+    "id": 71,
+    "type": "TRAVEL_CAR",
+    "name": "Safety Audit Drive #71",
+    "activityDate": "2024-05-01",
+    "quantity": 285,
+    "unit": "km",
+    "projectId": 9
+  },
+  {
+    "id": 72,
+    "type": "EQUIPMENT_USAGE_DIESEL",
+    "name": "Diesel Generator Run #72",
+    "activityDate": "2024-06-28",
+    "quantity": 644,
+    "unit": "liter",
+    "projectId": 2
+  },
+  {
+    "id": 73,
+    "type": "TRAVEL_CAR",
+    "name": "Material Pickup #73",
+    "activityDate": "2024-09-14",
+    "quantity": 375,
+    "unit": "km",
+    "projectId": 5
+  },
+  {
+    "id": 74,
+    "type": "ENERGY_CONSUMPTION",
+    "name": "Welding Machine Usage #74",
+    "activityDate": "2024-08-25",
+    "quantity": 1171,
+    "unit": "kWh",
+    "projectId": 3
+  },
+  {
+    "id": 75,
+    "type": "ENERGY_CONSUMPTION",
+    "name": "Welding Machine Usage #75",
+    "activityDate": "2024-01-16",
+    "quantity": 408,
+    "unit": "kWh",
+    "projectId": 3
+  },
+  {
+    "id": 76,
+    "type": "EQUIPMENT_USAGE_DIESEL",
+    "name": "Excavator Fuel Use #76",
+    "activityDate": "2024-03-12",
+    "quantity": 423,
+    "unit": "liter",
+    "projectId": 1
+  },
+  {
+    "id": 77,
+    "type": "ENERGY_CONSUMPTION",
+    "name": "Temporary Power Supply #77",
+    "activityDate": "2024-10-09",
+    "quantity": 518,
+    "unit": "kWh",
+    "projectId": 1
+  },
+  {
+    "id": 78,
+    "type": "EQUIPMENT_USAGE_DIESEL",
+    "name": "Craning Operation #78",
+    "activityDate": "2024-09-17",
+    "quantity": 677,
+    "unit": "liter",
+    "projectId": 1
+  },
+  {
+    "id": 79,
+    "type": "EQUIPMENT_USAGE_DIESEL",
+    "name": "Craning Operation #79",
+    "activityDate": "2024-01-30",
+    "quantity": 502,
+    "unit": "liter",
+    "projectId": 2
+  },
+  {
+    "id": 80,
+    "type": "TRAVEL_CAR",
+    "name": "Safety Audit Drive #80",
+    "activityDate": "2024-07-24",
+    "quantity": 451,
+    "unit": "km",
+    "projectId": 3
+  },
+  {
+    "id": 81,
+    "type": "ENERGY_CONSUMPTION",
+    "name": "Temporary Power Supply #81",
+    "activityDate": "2024-01-04",
+    "quantity": 222,
+    "unit": "kWh",
+    "projectId": 2
+  },
+  {
+    "id": 82,
+    "type": "TRAVEL_CAR",
+    "name": "Site Visit #82",
+    "activityDate": "2024-10-08",
+    "quantity": 282,
+    "unit": "km",
+    "projectId": 3
+  },
+  {
+    "id": 83,
+    "type": "TRAVEL_CAR",
+    "name": "Safety Audit Drive #83",
+    "activityDate": "2024-10-04",
+    "quantity": 236,
+    "unit": "km",
+    "projectId": 4
+  },
+  {
+    "id": 84,
+    "type": "EQUIPMENT_USAGE_DIESEL",
+    "name": "Excavator Fuel Use #84",
+    "activityDate": "2024-01-15",
+    "quantity": 787,
+    "unit": "liter",
+    "projectId": 3
+  },
+  {
+    "id": 85,
+    "type": "EQUIPMENT_USAGE_DIESEL",
+    "name": "Excavator Fuel Use #85",
+    "activityDate": "2024-02-19",
+    "quantity": 143,
+    "unit": "liter",
+    "projectId": 5
+  },
+  {
+    "id": 86,
+    "type": "ENERGY_CONSUMPTION",
+    "name": "Welding Machine Usage #86",
+    "activityDate": "2024-05-05",
+    "quantity": 778,
+    "unit": "kWh",
+    "projectId": 2
+  },
+  {
+    "id": 87,
+    "type": "ENERGY_CONSUMPTION",
+    "name": "Temporary Power Supply #87",
+    "activityDate": "2024-10-29",
+    "quantity": 480,
+    "unit": "kWh",
+    "projectId": 2
+  },
+  {
+    "id": 88,
+    "type": "ENERGY_CONSUMPTION",
+    "name": "Welding Machine Usage #88",
+    "activityDate": "2024-05-10",
+    "quantity": 343,
+    "unit": "kWh",
+    "projectId": 2
+  },
+  {
+    "id": 89,
+    "type": "EQUIPMENT_USAGE_DIESEL",
+    "name": "Diesel Generator Run #89",
+    "activityDate": "2024-04-19",
+    "quantity": 277,
+    "unit": "liter",
+    "projectId": 5
+  },
+  {
+    "id": 90,
+    "type": "EQUIPMENT_USAGE_DIESEL",
+    "name": "Craning Operation #90",
+    "activityDate": "2024-10-11",
+    "quantity": 432,
+    "unit": "liter",
+    "projectId": 8
+  },
+  {
+    "id": 91,
+    "type": "EQUIPMENT_USAGE_DIESEL",
+    "name": "Excavator Fuel Use #91",
+    "activityDate": "2024-10-16",
+    "quantity": 492,
+    "unit": "liter",
+    "projectId": 6
+  },
+  {
+    "id": 92,
+    "type": "ENERGY_CONSUMPTION",
+    "name": "Lighting System #92",
+    "activityDate": "2024-12-24",
+    "quantity": 694,
+    "unit": "kWh",
+    "projectId": 8
+  },
+  {
+    "id": 93,
+    "type": "TRAVEL_CAR",
+    "name": "Material Pickup #93",
+    "activityDate": "2024-02-13",
+    "quantity": 294,
+    "unit": "km",
+    "projectId": 2
+  },
+  {
+    "id": 94,
+    "type": "TRAVEL_CAR",
+    "name": "Supervisor Trip #94",
+    "activityDate": "2024-04-29",
+    "quantity": 489,
+    "unit": "km",
+    "projectId": 9
+  },
+  {
+    "id": 95,
+    "type": "ENERGY_CONSUMPTION",
+    "name": "Welding Machine Usage #95",
+    "activityDate": "2024-04-30",
+    "quantity": 1117,
+    "unit": "kWh",
+    "projectId": 7
+  },
+  {
+    "id": 96,
+    "type": "EQUIPMENT_USAGE_DIESEL",
+    "name": "Excavator Fuel Use #96",
+    "activityDate": "2024-08-26",
+    "quantity": 104,
+    "unit": "liter",
+    "projectId": 3
+  },
+  {
+    "id": 97,
+    "type": "EQUIPMENT_USAGE_DIESEL",
+    "name": "Craning Operation #97",
+    "activityDate": "2024-05-18",
+    "quantity": 458,
+    "unit": "liter",
+    "projectId": 4
+  },
+  {
+    "id": 98,
+    "type": "TRAVEL_CAR",
+    "name": "Material Pickup #98",
+    "activityDate": "2024-05-14",
+    "quantity": 102,
+    "unit": "km",
+    "projectId": 8
+  },
+  {
+    "id": 99,
+    "type": "EQUIPMENT_USAGE_DIESEL",
+    "name": "Diesel Generator Run #99",
+    "activityDate": "2024-08-12",
+    "quantity": 778,
+    "unit": "liter",
+    "projectId": 8
+  },
+  {
+    "id": 100,
+    "type": "TRAVEL_CAR",
+    "name": "Material Pickup #100",
+    "activityDate": "2024-10-25",
+    "quantity": 390,
+    "unit": "km",
+    "projectId": 5
+  },
+  {
+    "id": 101,
+    "type": "TRAVEL_CAR",
+    "name": "Site Visit #101",
+    "activityDate": "2024-02-08",
+    "quantity": 262,
+    "unit": "km",
+    "projectId": 2
+  },
+  {
+    "id": 102,
+    "type": "ENERGY_CONSUMPTION",
+    "name": "Temporary Power Supply #102",
+    "activityDate": "2024-09-08",
+    "quantity": 1474,
+    "unit": "kWh",
+    "projectId": 10
+  },
+  {
+    "id": 103,
+    "type": "EQUIPMENT_USAGE_DIESEL",
+    "name": "Craning Operation #103",
+    "activityDate": "2024-03-12",
+    "quantity": 381,
+    "unit": "liter",
+    "projectId": 4
+  },
+  {
+    "id": 104,
+    "type": "ENERGY_CONSUMPTION",
+    "name": "Lighting System #104",
+    "activityDate": "2024-07-16",
+    "quantity": 757,
+    "unit": "kWh",
+    "projectId": 2
+  },
+  {
+    "id": 105,
+    "type": "EQUIPMENT_USAGE_DIESEL",
+    "name": "Excavator Fuel Use #105",
+    "activityDate": "2024-04-23",
+    "quantity": 499,
+    "unit": "liter",
+    "projectId": 2
+  },
+  {
+    "id": 106,
+    "type": "EQUIPMENT_USAGE_DIESEL",
+    "name": "Excavator Fuel Use #106",
+    "activityDate": "2024-07-21",
+    "quantity": 557,
+    "unit": "liter",
+    "projectId": 1
+  },
+  {
+    "id": 107,
+    "type": "ENERGY_CONSUMPTION",
+    "name": "Lighting System #107",
+    "activityDate": "2024-10-03",
+    "quantity": 1002,
+    "unit": "kWh",
+    "projectId": 5
+  },
+  {
+    "id": 108,
+    "type": "TRAVEL_CAR",
+    "name": "Safety Audit Drive #108",
+    "activityDate": "2024-08-25",
+    "quantity": 440,
+    "unit": "km",
+    "projectId": 9
+  },
+  {
+    "id": 109,
+    "type": "ENERGY_CONSUMPTION",
+    "name": "Lighting System #109",
+    "activityDate": "2024-02-01",
+    "quantity": 329,
+    "unit": "kWh",
+    "projectId": 5
+  },
+  {
+    "id": 110,
+    "type": "ENERGY_CONSUMPTION",
+    "name": "Welding Machine Usage #110",
+    "activityDate": "2024-01-04",
+    "quantity": 1411,
+    "unit": "kWh",
+    "projectId": 4
+  },
+  {
+    "id": 111,
+    "type": "TRAVEL_CAR",
+    "name": "Supervisor Trip #111",
+    "activityDate": "2024-02-24",
+    "quantity": 318,
+    "unit": "km",
+    "projectId": 10
+  },
+  {
+    "id": 112,
+    "type": "EQUIPMENT_USAGE_DIESEL",
+    "name": "Excavator Fuel Use #112",
+    "activityDate": "2024-10-17",
+    "quantity": 269,
+    "unit": "liter",
+    "projectId": 3
+  },
+  {
+    "id": 113,
+    "type": "EQUIPMENT_USAGE_DIESEL",
+    "name": "Diesel Generator Run #113",
+    "activityDate": "2024-03-29",
+    "quantity": 627,
+    "unit": "liter",
+    "projectId": 9
+  },
+  {
+    "id": 114,
+    "type": "EQUIPMENT_USAGE_DIESEL",
+    "name": "Excavator Fuel Use #114",
+    "activityDate": "2024-12-04",
+    "quantity": 320,
+    "unit": "liter",
+    "projectId": 6
+  },
+  {
+    "id": 115,
+    "type": "TRAVEL_CAR",
+    "name": "Material Pickup #115",
+    "activityDate": "2024-09-28",
+    "quantity": 298,
+    "unit": "km",
+    "projectId": 6
+  },
+  {
+    "id": 116,
+    "type": "ENERGY_CONSUMPTION",
+    "name": "Welding Machine Usage #116",
+    "activityDate": "2024-11-17",
+    "quantity": 985,
+    "unit": "kWh",
+    "projectId": 7
+  },
+  {
+    "id": 117,
+    "type": "ENERGY_CONSUMPTION",
+    "name": "Welding Machine Usage #117",
+    "activityDate": "2024-05-02",
+    "quantity": 1308,
+    "unit": "kWh",
+    "projectId": 7
+  },
+  {
+    "id": 118,
+    "type": "TRAVEL_CAR",
+    "name": "Supervisor Trip #118",
+    "activityDate": "2024-01-13",
+    "quantity": 439,
+    "unit": "km",
+    "projectId": 6
+  },
+  {
+    "id": 119,
+    "type": "EQUIPMENT_USAGE_DIESEL",
+    "name": "Excavator Fuel Use #119",
+    "activityDate": "2024-01-30",
+    "quantity": 243,
+    "unit": "liter",
+    "projectId": 9
+  },
+  {
+    "id": 120,
+    "type": "TRAVEL_CAR",
+    "name": "Supervisor Trip #120",
+    "activityDate": "2024-10-22",
+    "quantity": 185,
+    "unit": "km",
+    "projectId": 8
+  }
+]

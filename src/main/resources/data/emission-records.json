@@ -1,0 +1,842 @@
+[
+  {
+    "id": 1,
+    "activityId": 1,
+    "calculatedEmission": 399.32,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 2,
+    "activityId": 2,
+    "calculatedEmission": 525.28,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 3,
+    "activityId": 3,
+    "calculatedEmission": 38.0,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 4,
+    "activityId": 4,
+    "calculatedEmission": 716.0,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 5,
+    "activityId": 5,
+    "calculatedEmission": 88.4,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 6,
+    "activityId": 6,
+    "calculatedEmission": 398.0,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 7,
+    "activityId": 7,
+    "calculatedEmission": 1910.84,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 8,
+    "activityId": 8,
+    "calculatedEmission": 52.0,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 9,
+    "activityId": 9,
+    "calculatedEmission": 490.0,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 10,
+    "activityId": 10,
+    "calculatedEmission": 854.92,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 11,
+    "activityId": 11,
+    "calculatedEmission": 680.5,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 12,
+    "activityId": 12,
+    "calculatedEmission": 962.12,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 13,
+    "activityId": 13,
+    "calculatedEmission": 64.4,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 14,
+    "activityId": 14,
+    "calculatedEmission": 163.5,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 15,
+    "activityId": 15,
+    "calculatedEmission": 741.0,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 16,
+    "activityId": 16,
+    "calculatedEmission": 70.6,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 17,
+    "activityId": 17,
+    "calculatedEmission": 40.8,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 18,
+    "activityId": 18,
+    "calculatedEmission": 75.2,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 19,
+    "activityId": 19,
+    "calculatedEmission": 104.0,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 20,
+    "activityId": 20,
+    "calculatedEmission": 215.0,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 21,
+    "activityId": 21,
+    "calculatedEmission": 1240.84,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 22,
+    "activityId": 22,
+    "calculatedEmission": 268.0,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 23,
+    "activityId": 23,
+    "calculatedEmission": 1642.84,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 24,
+    "activityId": 24,
+    "calculatedEmission": 98.0,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 25,
+    "activityId": 25,
+    "calculatedEmission": 90.8,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 26,
+    "activityId": 26,
+    "calculatedEmission": 160.5,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 27,
+    "activityId": 27,
+    "calculatedEmission": 278.72,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 28,
+    "activityId": 28,
+    "calculatedEmission": 23.2,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 29,
+    "activityId": 29,
+    "calculatedEmission": 1315.88,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 30,
+    "activityId": 30,
+    "calculatedEmission": 284.0,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 31,
+    "activityId": 31,
+    "calculatedEmission": 20.0,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 32,
+    "activityId": 32,
+    "calculatedEmission": 1774.16,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 33,
+    "activityId": 33,
+    "calculatedEmission": 502.0,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 34,
+    "activityId": 34,
+    "calculatedEmission": 191.5,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 35,
+    "activityId": 35,
+    "calculatedEmission": 73.6,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 36,
+    "activityId": 36,
+    "calculatedEmission": 1447.2,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 37,
+    "activityId": 37,
+    "calculatedEmission": 546.0,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 38,
+    "activityId": 38,
+    "calculatedEmission": 1881.36,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 39,
+    "activityId": 39,
+    "calculatedEmission": 30.2,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 40,
+    "activityId": 40,
+    "calculatedEmission": 15.2,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 41,
+    "activityId": 41,
+    "calculatedEmission": 488.5,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 42,
+    "activityId": 42,
+    "calculatedEmission": 1315.88,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 43,
+    "activityId": 43,
+    "calculatedEmission": 1591.92,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 44,
+    "activityId": 44,
+    "calculatedEmission": 167.0,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 45,
+    "activityId": 45,
+    "calculatedEmission": 1254.24,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 46,
+    "activityId": 46,
+    "calculatedEmission": 41.0,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 47,
+    "activityId": 47,
+    "calculatedEmission": 2039.48,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 48,
+    "activityId": 48,
+    "calculatedEmission": 243.0,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 49,
+    "activityId": 49,
+    "calculatedEmission": 367.16,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 50,
+    "activityId": 50,
+    "calculatedEmission": 290.0,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 51,
+    "activityId": 51,
+    "calculatedEmission": 225.0,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 52,
+    "activityId": 52,
+    "calculatedEmission": 1388.24,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 53,
+    "activityId": 53,
+    "calculatedEmission": 1273.0,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 54,
+    "activityId": 54,
+    "calculatedEmission": 66.8,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 55,
+    "activityId": 55,
+    "calculatedEmission": 315.5,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 56,
+    "activityId": 56,
+    "calculatedEmission": 43.6,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 57,
+    "activityId": 57,
+    "calculatedEmission": 726.28,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 58,
+    "activityId": 58,
+    "calculatedEmission": 1900.12,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 59,
+    "activityId": 59,
+    "calculatedEmission": 65.8,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 60,
+    "activityId": 60,
+    "calculatedEmission": 11.0,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 61,
+    "activityId": 61,
+    "calculatedEmission": 395.5,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 62,
+    "activityId": 62,
+    "calculatedEmission": 324.5,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 63,
+    "activityId": 63,
+    "calculatedEmission": 293.5,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 64,
+    "activityId": 64,
+    "calculatedEmission": 1358.76,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 65,
+    "activityId": 65,
+    "calculatedEmission": 458.28,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 66,
+    "activityId": 66,
+    "calculatedEmission": 63.8,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 67,
+    "activityId": 67,
+    "calculatedEmission": 1605.32,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 68,
+    "activityId": 68,
+    "calculatedEmission": 22.8,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 69,
+    "activityId": 69,
+    "calculatedEmission": 74.4,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 70,
+    "activityId": 70,
+    "calculatedEmission": 1114.88,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 71,
+    "activityId": 71,
+    "calculatedEmission": 57.0,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 72,
+    "activityId": 72,
+    "calculatedEmission": 1725.92,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 73,
+    "activityId": 73,
+    "calculatedEmission": 75.0,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 74,
+    "activityId": 74,
+    "calculatedEmission": 585.5,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 75,
+    "activityId": 75,
+    "calculatedEmission": 204.0,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 76,
+    "activityId": 76,
+    "calculatedEmission": 1133.64,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 77,
+    "activityId": 77,
+    "calculatedEmission": 259.0,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 78,
+    "activityId": 78,
+    "calculatedEmission": 1814.36,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 79,
+    "activityId": 79,
+    "calculatedEmission": 1345.36,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 80,
+    "activityId": 80,
+    "calculatedEmission": 90.2,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 81,
+    "activityId": 81,
+    "calculatedEmission": 111.0,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 82,
+    "activityId": 82,
+    "calculatedEmission": 56.4,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 83,
+    "activityId": 83,
+    "calculatedEmission": 47.2,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 84,
+    "activityId": 84,
+    "calculatedEmission": 2109.16,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 85,
+    "activityId": 85,
+    "calculatedEmission": 383.24,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 86,
+    "activityId": 86,
+    "calculatedEmission": 389.0,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 87,
+    "activityId": 87,
+    "calculatedEmission": 240.0,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 88,
+    "activityId": 88,
+    "calculatedEmission": 171.5,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 89,
+    "activityId": 89,
+    "calculatedEmission": 742.36,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 90,
+    "activityId": 90,
+    "calculatedEmission": 1157.76,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 91,
+    "activityId": 91,
+    "calculatedEmission": 1318.56,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 92,
+    "activityId": 92,
+    "calculatedEmission": 347.0,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 93,
+    "activityId": 93,
+    "calculatedEmission": 58.8,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 94,
+    "activityId": 94,
+    "calculatedEmission": 97.8,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 95,
+    "activityId": 95,
+    "calculatedEmission": 558.5,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 96,
+    "activityId": 96,
+    "calculatedEmission": 278.72,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 97,
+    "activityId": 97,
+    "calculatedEmission": 1227.44,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 98,
+    "activityId": 98,
+    "calculatedEmission": 20.4,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 99,
+    "activityId": 99,
+    "calculatedEmission": 2085.04,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 100,
+    "activityId": 100,
+    "calculatedEmission": 78.0,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 101,
+    "activityId": 101,
+    "calculatedEmission": 52.4,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 102,
+    "activityId": 102,
+    "calculatedEmission": 737.0,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 103,
+    "activityId": 103,
+    "calculatedEmission": 1021.08,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 104,
+    "activityId": 104,
+    "calculatedEmission": 378.5,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 105,
+    "activityId": 105,
+    "calculatedEmission": 1337.32,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 106,
+    "activityId": 106,
+    "calculatedEmission": 1492.76,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 107,
+    "activityId": 107,
+    "calculatedEmission": 501.0,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 108,
+    "activityId": 108,
+    "calculatedEmission": 88.0,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 109,
+    "activityId": 109,
+    "calculatedEmission": 164.5,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 110,
+    "activityId": 110,
+    "calculatedEmission": 705.5,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 111,
+    "activityId": 111,
+    "calculatedEmission": 63.6,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 112,
+    "activityId": 112,
+    "calculatedEmission": 720.92,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 113,
+    "activityId": 113,
+    "calculatedEmission": 1680.36,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 114,
+    "activityId": 114,
+    "calculatedEmission": 857.6,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 115,
+    "activityId": 115,
+    "calculatedEmission": 59.6,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 116,
+    "activityId": 116,
+    "calculatedEmission": 492.5,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 117,
+    "activityId": 117,
+    "calculatedEmission": 654.0,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 118,
+    "activityId": 118,
+    "calculatedEmission": 87.8,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 119,
+    "activityId": 119,
+    "calculatedEmission": 651.24,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  },
+  {
+    "id": 120,
+    "activityId": 120,
+    "calculatedEmission": 37.0,
+    "unit": "kg CO2",
+    "calculatedAt": "2024-06-01T09:00:00Z"
+  }
+]

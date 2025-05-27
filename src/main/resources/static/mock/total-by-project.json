@@ -1,0 +1,52 @@
+[
+  {
+    "projectId": 1,
+    "projectName": "Carbon Capture Pilot",
+    "totalEmissions": 6837.36
+  },
+  {
+    "projectId": 2,
+    "projectName": "Offshore Wind Farm",
+    "totalEmissions": 7339.04
+  },
+  {
+    "projectId": 3,
+    "projectName": "Solar Array Buildout",
+    "totalEmissions": 7873.6
+  },
+  {
+    "projectId": 4,
+    "projectName": "Onshore Wind Deployment",
+    "totalEmissions": 12841.3
+  },
+  {
+    "projectId": 5,
+    "projectName": "Refinery Modernization",
+    "totalEmissions": 8245.42
+  },
+  {
+    "projectId": 6,
+    "projectName": "LNG Plant Project",
+    "totalEmissions": 6079.34
+  },
+  {
+    "projectId": 7,
+    "projectName": "Subsea Cable Installation",
+    "totalEmissions": 7110.0
+  },
+  {
+    "projectId": 8,
+    "projectName": "Geothermal Pilot Phase",
+    "totalEmissions": 4915.52
+  },
+  {
+    "projectId": 9,
+    "projectName": "Solar Array Buildout",
+    "totalEmissions": 5533.22
+  },
+  {
+    "projectId": 10,
+    "projectName": "Onshore Wind Deployment",
+    "totalEmissions": 3774.88
+  }
+]
