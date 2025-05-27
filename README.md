@@ -8,7 +8,7 @@ The app visualizes carbon emissions by project, activity category, and over time
 
 ## ⚙️ Tech Stack
 
-- 📦 Backend: Spring Boot (Java 17+)
+- 📦 Backend: Spring Boot (Java 21+)
 - 🖼 Frontend: React 18 + Chart.js (served by Spring)
 - 📁 Data: In-memory JSON (no database)
 - 🤖 Copilot: PRD + Issue-based feature additions (Agent Mode)
