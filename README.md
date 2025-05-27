@@ -70,7 +70,7 @@ Use VS Code with the Copilot extension enabled.
 Try:
 
 - Copilot: Implement from feature definition → Choose from prd/ directory
-- Copilot: Implement GitHub Issue → Use the issue in the GitHub repo
+- Copilot + [Github MCP Server](https://github.com/modelcontextprotocol/servers/tree/main/src/github) : Implement GitHub Issue → Use the issue in the GitHub repo
 
 
 
