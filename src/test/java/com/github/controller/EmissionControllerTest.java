@@ -78,4 +78,30 @@ class EmissionControllerTest {
                 .andExpect(jsonPath("$").isArray())
                 .andExpect(jsonPath("$").isEmpty());
     }
+
+    @Test
+    void getCategoryByProject_ShouldReturnCategoryEmissionsForProject() throws Exception {
+        // Prepare test data
+        Map<String, Object> category1 = new HashMap<>();
+        category1.put("category", "Transportation");
+        category1.put("total", 50.0);
+
+        Map<String, Object> category2 = new HashMap<>();
+        category2.put("category", "Energy");
+        category2.put("total", 75.0);
+
+        List<Map<String, Object>> mockData = Arrays.asList(category1, category2);
+
+        // Set up mock service response
+        when(emissionService.getEmissionsByCategoryForProject(1L)).thenReturn(mockData);
+
+        // Perform request and verify response
+        mockMvc.perform(get("/api/emissions/project/1/by-category"))
+                .andExpect(status().isOk())
+                .andExpect(content().contentType(MediaType.APPLICATION_JSON))
+                .andExpect(jsonPath("$[0].category").value("Transportation"))
+                .andExpect(jsonPath("$[0].total").value(50.0))
+                .andExpect(jsonPath("$[1].category").value("Energy"))
+                .andExpect(jsonPath("$[1].total").value(75.0));
+    }
 }

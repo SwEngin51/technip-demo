@@ -31,6 +31,8 @@ const Dashboard = () => {
     const [overTime, setOverTime] = useState([]);
     const [activeTab, setActiveTab] = useState("project");
     const [loading, setLoading] = useState(true);
+    const [selectedProjectId, setSelectedProjectId] = useState(null);
+    const [selectedProjectName, setSelectedProjectName] = useState(null);
 
     useEffect(() => {
         const fetchData = async () => {
@@ -53,6 +55,33 @@ const Dashboard = () => {
 
         fetchData();
     }, []);
+
+    const fetchCategoryDataForProject = async (projectId) => {
+        try {
+            const response = await axios.get(`/api/emissions/project/${projectId}/by-category`);
+            setByCategory(response.data);
+        } catch (error) {
+            console.error("Error fetching project category data:", error);
+        }
+    };
+
+    const handleProjectSelect = (projectId, projectName) => {
+        setSelectedProjectId(projectId);
+        setSelectedProjectName(projectName);
+        fetchCategoryDataForProject(projectId);
+        setActiveTab("category"); // Switch to category tab to show the filtered data
+    };
+
+    const handleResetSelection = async () => {
+        setSelectedProjectId(null);
+        setSelectedProjectName(null);
+        try {
+            const categoryData = await axios.get("/api/emissions/by-category");
+            setByCategory(categoryData.data);
+        } catch (error) {
+            console.error("Error fetching all category data:", error);
+        }
+    };
 
     const exportToCSV = () => {
         // Create CSV content
@@ -108,6 +137,22 @@ const Dashboard = () => {
                         },
                     ],
                 }}
+                options={{
+                    onClick: (event, elements) => {
+                        if (elements.length > 0) {
+                            const index = elements[0].index;
+                            const project = totalByProject[index];
+                            handleProjectSelect(project.projectId, project.projectName);
+                        }
+                    },
+                    plugins: {
+                        tooltip: {
+                            callbacks: {
+                                afterLabel: () => "Click to filter category view"
+                            }
+                        }
+                    }
+                }}
             />
         </div>
     );
@@ -117,19 +162,43 @@ const Dashboard = () => {
             case "project":
                 return renderProjectChart();
             case "category":
+                const categoryTitle = selectedProjectName 
+                    ? `Emissions by Category – Project: ${selectedProjectName}`
+                    : "Emissions by Category";
+                
                 return (
-                    <Pie
-                        data={{
-                            labels: byCategory.map((item) => item.category),
-                            datasets: [
-                                {
-                                    label: "kg CO₂",
-                                    data: byCategory.map((item) => item.total),
-                                    backgroundColor: ["#36A2EB", "#FF6384", "#FFCE56"],
-                                },
-                            ],
-                        }}
-                    />
+                    <div>
+                        <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: "10px" }}>
+                            <h3 style={{ margin: 0, fontSize: "16px" }}>{categoryTitle}</h3>
+                            {selectedProjectId && (
+                                <button
+                                    onClick={handleResetSelection}
+                                    style={{
+                                        padding: "8px 16px",
+                                        backgroundColor: "#ff6b6b",
+                                        color: "white",
+                                        border: "none",
+                                        borderRadius: "4px",
+                                        cursor: "pointer"
+                                    }}
+                                >
+                                    Reset Filter
+                                </button>
+                            )}
+                        </div>
+                        <Pie
+                            data={{
+                                labels: byCategory.map((item) => item.category),
+                                datasets: [
+                                    {
+                                        label: "kg CO₂",
+                                        data: byCategory.map((item) => item.total),
+                                        backgroundColor: ["#36A2EB", "#FF6384", "#FFCE56"],
+                                    },
+                                ],
+                            }}
+                        />
+                    </div>
                 );
             case "time":
                 return (
