@@ -89,5 +89,25 @@ public class EmissionCalculatorService {
                 })
                 .collect(Collectors.toList());
     }
+
+    public List<Map<String, Object>> getEmissionsByCategoryForProject(Long projectId) {
+        return activities.stream()
+                .filter(a -> a.getProjectId().equals(projectId))
+                .collect(Collectors.groupingBy(
+                        Activity::getType,
+                        Collectors.summingDouble(a -> {
+                            EmissionRecord record = emissionRecordMap.get(a.getId());
+                            return record != null ? record.getCalculatedEmission() : 0;
+                        })
+                ))
+                .entrySet().stream()
+                .map(e -> {
+                    Map<String, Object> map = new HashMap<>();
+                    map.put("category", e.getKey());
+                    map.put("total", Math.round(e.getValue() * 100.0) / 100.0);
+                    return map;
+                })
+                .collect(Collectors.toList());
+    }
 }
 
